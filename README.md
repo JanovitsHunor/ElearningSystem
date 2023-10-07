@@ -1,9 +1,9 @@
 # Áttekintés a projektmunkáról
-A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönnyíti a tanfolyamok létrehozását, a diákok beiratkozását és az egyetemmel kapcsolatos teendőik kezelését, a tartalomszolgáltatást, az tanulók értékelését előrehaladásának nyomon követését. A rendszer célja az online oktatás fejlesztése azáltal, hogy felhasználóbarát felületeket biztosít az oktatók és a diákok számára.
+A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönnyíti a tanfolyamok létrehozását, a diákok beiratkozását és az egyetemmel kapcsolatos teendőik kezelését, a tartalomszolgáltatást, a tanulók értékelését, előrehaladásának nyomon követését. A rendszer célja az online oktatás fejlesztése azáltal, hogy felhasználóbarát felületeket biztosít az oktatók és a diákok számára.
 
 # Hogyan állítható be a rendszer otthoni eszközökről?
 
-- 1. lépés: Töltse le a "xampp" nevű webszerver-szoftvercsomagot az alábbi elérhetőségen: [Letöltés itt](https://www.apachefriends.org/download.html)
+- 1. lépés: Töltse le a "xampp" nevű webszerver-szoftvercsomagot az alábbi elérhetőségen: [Letöltés](https://www.apachefriends.org/download.html)
 
 - 2. lépés: Biztosítson Notepad++ vagy egyéb szövegszerkesztői alkalmazást az eszközén.
 
@@ -21,4 +21,4 @@ A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönny
 
 - 9. lépés: Futtassa a "http://localhost/elearning" linket.
  
-Bármilyen fennakadés esetén a(z) [Segítség](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) fülön találnak megoldást!
+Bármilyen fennakadás esetén a(z) [Segítség](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) fülön találnak megoldást!
