@@ -4,6 +4,8 @@
 
 Az E-Learning Kezelőrendszer (LMS) kifejlesztéséhez szükség van egy alapos bevezetésre, amely bemutatja az LMS rendszer céljait és a projekttel kapcsolatos általános kontextust. A bevezetés kulcsfontosságú információkat tartalmaz a projekt hátteréről és céljairól.
 
+Fontos leszögezni, hogy az általunk módosított Elearning Kezelőrendszer (LMS) eredeti forráskódja [itt](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) található meg.
+
 ### Cél és Háttér
 
 Az LMS rendszer célja az oktatás modernizálása és az online oktatás elősegítése. Az online oktatás területe az elmúlt években folyamatosan növekszik, és a tanárok és diákok egyre inkább támaszkodnak digitális eszközökre az oktatási tartalmakhoz való hozzáféréshez.
