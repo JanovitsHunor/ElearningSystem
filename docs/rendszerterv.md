@@ -50,14 +50,53 @@ A rendszerkomponensek közötti kapcsolatok kulcsfontosságúak a rendszer műk�
 - A keresés és kategorizálás funkciók segítik a felhasználókat a kívánt tartalmak megtalálásában.
 
 ### Fejlesztési Ütemterv
-A fejlesztési ütemtervet a rendszer komponenseinek fejlesztése és integrációja alapján kell meghatározni.
 
-1. Felhasználókezelés és bejelentkezés implementálása.
-2. Kurzuskezelés és tartalomkezelés rendszerének kifejlesztése.
-3. Keresés és kategorizálás funkciók hozzáadása.
-4. Rendszerbiztonság és jogosultságkezelés implementálása.
-5. Tesztelés és hibajavítás.
-6. Felhasználói visszajelzések alapján finomhangolás és fejlesztések.
+A fejlesztési ütemterv a rendszer komponenseinek és funkcióinak lépésről lépésre történő kifejlesztését és integrációját részletezi. Fontos megérteni, hogy a fejlesztési ütemterv időben rugalmas lehet, és az aktuális projektkörülményekhez igazítható.
+
+#### Lépés 1: Felhasználókezelés és Bejelentkezés Implementálása
+Az első lépésben a felhasználókezelés és bejelentkezés funkciókat hozzuk létre.
+
+- **Felhasználói fiókok:** Ebben a szakaszban a felhasználók regisztrációs és belépési folyamatainak megtervezése és implementálása történik.
+
+- **Profilkezelés:** A felhasználók profiladatainak kezelését és módosítását teszi lehetővé a rendszer.
+
+#### Lépés 2: Kurzuskezelés és Tartalomkezelés Rendszerének Kifejlesztése
+A második lépésben a kurzuskezelés és tartalomkezelés rendszerét hozzuk létre.
+
+- **Kurzusok létrehozása:** Ebben a szakaszban lehetővé tesszük a tanároknak, hogy új kurzusokat hozzanak létre, azokhoz leckéket csatoljanak és tematizálják.
+
+- **Tartalomfeltöltés:** Az interaktív tartalomfeltöltés és kezelés kialakítása, beleértve videókat, dokumentumokat és kvízeket.
+
+#### Lépés 3: Keresés és Kategorizálás Funkciók Hozzáadása
+A harmadik lépésben a rendszer keresési és kategorizálási funkcióit hozzuk létre.
+
+- **Keresési funkció:** Az egyszerű és hatékony keresőrendszer implementálása a kurzusok és tartalmak gyors megtalálásához.
+
+- **Kategorizálás és Tematizálás:** A kurzusok tematikus csoportosításának és kategorizálásának lehetővé tétele.
+
+#### Lépés 4: Rendszerbiztonság és Jogosultságkezelés Implementálása
+A negyedik lépésben a rendszerbiztonságot és a jogosultságkezelést helyezzük előtérbe.
+
+- **Adatvédelem és Biztonság:** Az adatok biztonságos tárolásának és védelmének biztosítása, beleértve a felhasználói adatokat.
+
+- **Jogosultságkezelés:** A rendszer biztosítja, hogy minden felhasználó csak a megfelelő hozzáférésekkel rendelkező tartalmakhoz férjen hozzá.
+
+#### Lépés 5: Tesztelés és Hibajavítás
+Az ötödik lépésben a rendszer teljes körű tesztelésen megy keresztül, és a felmerülő hibákat javítjuk.
+
+- **Tesztelés:** Funkcionális és felhasználói tesztek végrehajtása a rendszer működésének ellenőrzésére.
+
+- **Hibajavítás:** A tesztek során felfedezett hibák és hiányosságok kijavítása.
+
+#### Lépés 6: Felhasználói Visszajelzések Alapján Finomhangolás és Fejlesztések
+A hatodik lépésben a felhasználói visszajelzések alapján finomhangoljuk a rendszert és végzünk további fejlesztéseket.
+
+- **Felhasználói Visszajelzések Gyűjtése:** A rendszer aktív használata után a felhasználói visszajelzések összegyűjtése és elemzése.
+
+- **Finomhangolás és Fejlesztések:** Az észrevett igények és problémák alapján a rendszer további finomhangolása és fejlesztése.
+
+A fejlesztési ütemterv rugalmas és az aktuális projekt szükségleteihez igazítható. Az időzítés és az egyes lépések prioritása a projekt méretétől és az elvárásoktól függően változhat. A cél az, hogy egy rugalmas, hatékony és felhasználóbarát LMS rendszert hozzunk létre, amely a tanárok és diákok igényeinek megfelel.
+
 
 ### Következtetés
 Az E-Learning Kezelőrendszer (LMS) rendszerterve részletesen bemutatja a rendszer fő komponenseit és azok működését. A tervezési dokumentum segít az építőknek és fejlesztőknek a rendszer hatékony megvalósításában és fejlesztésében.
