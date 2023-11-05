@@ -157,3 +157,9 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 1. A vállalkozónak meg kell felelnie az IFB szerződési feltételeinek, ideértve, de nem kizárólag a Kalifornia Általános Szolgáltatások Minisztériumának Cloud Computing Speciális Rendelkezéseit SaaS és a Kalifornia Állami Közigazgatási Kézikönyvet (SAM) vonatkozó irányelveket.
 2. A vállalkozónak legalább NIST 800-171 szabványkövetelményeknek kell megfelelnie ezen LMS megoldás tekintetében.
 3. Ezen LMS megoldáshoz kötelező egy nyilvános felhőalapú környezet.
+
+## Elérhetőség
+
+1. A tervezett rendszerleállásnak legalább 24 órával előre kell lennie ütemezve.
+2. A rendszernek lehetővé kell tennie az átállást anélkül, hogy zavarná a szolgáltatást.
+3. A tervezett rendszerfrissítéseket, javításokat és támogatást zavar nélkül kell végrehajtani.
