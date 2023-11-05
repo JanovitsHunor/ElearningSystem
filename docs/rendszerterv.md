@@ -163,3 +163,8 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 1. A tervezett rendszerleállásnak legalább 24 órával előre kell lennie ütemezve.
 2. A rendszernek lehetővé kell tennie az átállást anélkül, hogy zavarná a szolgáltatást.
 3. A tervezett rendszerfrissítéseket, javításokat és támogatást zavar nélkül kell végrehajtani.
+
+## Kapacitás
+
+1. A rendszernek képesnek kell lennie az alkalmazott képzési előzményeinek tárolására és visszahívására legfeljebb 5 évig, legfeljebb 48 óra alatt.
+2. A rendszernek képesnek kell lennie a kapacitás bővítésére a munkaerővel, ahogy további minisztériumok csatlakoznak.
