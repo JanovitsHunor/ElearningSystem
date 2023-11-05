@@ -115,3 +115,9 @@ Az LMS rendszerek napjainkban kulcsfontosságú szerepet játszanak az oktatásb
 - **Felhasználói Visszajelzések:** Az automatikus visszajelzés funkció segít a tanároknak és diákoknak az oktatási teljesítmény értékelésében és a fejlődésben.
 
 - **Könnyű Navigáció:** Az egyszerű és felhasználóbarát felület segít a tanároknak és diákoknak az eligazodásban a rendszeren belül.
+
+- **Biztonság és Jogosultságkezelés:** A felhasználói adatok biztonságos kezelése és a jogosultságkezelés kulcsfontosságúak a rendszer biztonságához.
+
+Az LMS rendszerrel a tanárok új oktatási lehetőségeket fedezhetnek fel, míg a diákok interaktív módon tanulhatnak. Ez a rendszer lehetővé teszi az oktatás demokratizálását és az oktatáshoz való hozzáférést, ami hozzájárulhat a tudás terjedéséhez és a személyes fejlődéshez.
+
+A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az LMS rendszerben, amelyek a felhasználói visszajelzések és az oktatási igények figyelembevételével alakulnak ki. Az LMS rendszerünk hozzájárulhat a modern oktatás és tanulás fejlődéséhez és előmozdításához, és lehetőséget teremthet a tudás megosztására a világ minden táján.
