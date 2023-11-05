@@ -191,5 +191,14 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 ## Biztonság
 
 1. A rendszernek képesnek kell lennie harmadik fél hitelesítési módokkal való integrációra, például O-Auth vagy közvetlen használat.
-2. A rendszernek fogadnia kell az Egyszeri Bejelentkezés (SSO) tokeneket.
+2. A rendszernek fogadnia kell az 
+
+## Használhatóság
+
+1. A rendszernek meg kell felelnie a Section 508 és WCAG 2.0, A és AA legújabb követelményeinek. [Section 508](http://www.section508.gov/) 
+2. A rendszernek támogatnia kell a mobilitást (például telefonok és tabletek).
+3. A rendszernek támogatnia kell az összes jelenlegi verziót és az előzően támogatott verziókat a modern webböngészőkből, beleértve az Internet Explorert, Firefoxt, Chrome-ot és Safarit.
+4. A rendszernek támogatnia kell a zárt feliratozást a számítógépes alapú képzéshez.
+5. A rendszernek képesnek kell lennie UEID-k importálására és támogatására.
+Bejelentkezés (SSO) tokeneket.
 3. A rendszernek konfigurálható, szerep alapú hitelesítést kell biztosítania.
