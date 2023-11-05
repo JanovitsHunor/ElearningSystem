@@ -156,3 +156,7 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Felhasználói Jogosultságok
+
+A rendszerben különböző felhasználói típusoknak különböző jogosultságokat kell biztosítani a következőképpen:
