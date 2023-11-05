@@ -168,3 +168,7 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 
 1. A rendszernek képesnek kell lennie az alkalmazott képzési előzményeinek tárolására és visszahívására legfeljebb 5 évig, legfeljebb 48 óra alatt.
 2. A rendszernek képesnek kell lennie a kapacitás bővítésére a munkaerővel, ahogy további minisztériumok csatlakoznak.
+
+## Tanulhatóság
+
+1. A rendszernek kontextusfüggő online súgót kell biztosítania.
