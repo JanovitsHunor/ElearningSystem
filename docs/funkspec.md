@@ -100,3 +100,7 @@ Az adatbázisban számos entitást kell tárolnunk a rendszer működéséhez. A
 ## Miért hasznos egy E-Learning Rendszer?
 
 Az e-learning rendszernek számos előnye van, amelyeket az oktatás és képzés terén alkalmazva kiemelkedő eredményeket lehet elérni:
+
+- Rugalmasság: Az e-learning lehetővé teszi a tanulók számára, hogy saját ütemükben és az igényeiknek megfelelően tanuljanak. Nem szükséges fizikailag jelen lenni az oktatási intézményben.
+
+- Hozzáférhetőség: Az online tanulás bárhol és bármikor elvégezhető, ami különösen előnyös a távoli vagy elfoglalt tanulók számára.
