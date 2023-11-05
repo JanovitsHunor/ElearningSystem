@@ -108,3 +108,11 @@ Az e-learning rendszernek számos előnye van, amelyeket az oktatás és képzé
 - Interaktivitás: Az e-learning rendszerek képesek interaktív tartalmakat biztosítani, amelyek segítik a tanulók bevonását és megértését.
 
 - Skálázhatóság: Az e-learning lehetővé teszi az oktatási anyagok könnyű és hatékony terjesztését, és széles körű diákok elérését.
+
+## Célközönség
+
+Ez a követelményspecifikáció olyan e-learning rendszer fejlesztését célozza, amely a következő célcsoportoknak szól:
+
+- Oktatók és oktatási intézmények, akik hatékonyabb és interaktív oktatási anyagokat szeretnének létrehozni és terjeszteni.
+- Diákok és tanulók, akiknek kényelmes és hozzáférhető tanulási lehetőségekre van szükségük.
+- Vállalatok és vállalkozások, akik képzési programjaikat és továbbképzéseiket szeretnék modernizálni és hatékonyabbá tenni.
