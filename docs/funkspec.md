@@ -183,3 +183,7 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 - **Hozzáférési ellenőrzés**: A rendszernek gondoskodnia kell a hozzáférési jogosultságok pontos ellenőrzéséről. A jogosultságok beállításainak könnyen módosíthatónak kell lenniük az adminisztrátorok számára, és a felhasználók csak a saját jogosultságuknak megfelelő tartalmakat láthatják.
 
 - **Bejelentkezési jogosultságok**: A rendszernek megfelelő bejelentkezési jogosultságokat kell biztosítania. A felhasználók számára biztonságos bejelentkezési folyamatot kell garantálni, beleértve a jelszóváltoztatási lehetőséget és a kétlépcsős azonosítást.
+
+- **Adatvédelem és biztonság**: A rendszernek gondoskodnia kell az adatvédelemről és a felhasználói adatok biztonságáról. A jogosultságoknak meg kell felelniük az adatvédelmi előírásoknak és a vonatkozó törvényeknek.
+
+A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
