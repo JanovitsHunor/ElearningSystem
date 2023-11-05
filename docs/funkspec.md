@@ -161,3 +161,9 @@ A rendszer tartalomkezelésének számos fontos aspektusa van:
 
 - **Jogosultságok és hozzáférési ellenőrzés**: A tartalomhozzáférés jogosultságait és engedélyeit kell beállítani. Az oktatók és tartalomkészítőknek csak az általuk létrehozott tartalmakhoz kell hozzáférést kapniuk, míg a diákok csak azokhoz, amelyeket regisztráltak.
 - **Kategóriák és címkék**: A tartalmak kategorizálása és címkézése segíthet a felhasználóknak a könnyű navigációban és a tartalom gyors megtalálásában. A rendszernek lehetőséget kell adnia a tartalmak csoportosítására kategóriák és címkék segítségével.
+
+- **Tartalom publikálása és archiválása**: A rendszernek lehetőséget kell biztosítania a tartalom publikálására és archiválására. Így az oktatók időzített publikálással tervezhetik a kurzusokat, és az inaktív tartalmakat elzárhatják az archívumban.
+
+- **Keresési funkció**: A felhasználók könnyen kereshetik a rendszer tartalmainak között, beleértve a kurzusokat, leckéket vagy dokumentumokat. A keresésnek hatékony és gyors eredményeket kell szolgáltatnia.
+
+A tartalomkezelés rendszernek minden aspektusa segíti a tartalom hatékony kezelését, frissítését és könnyű elérését, ami fontos eleme az elearning rendszer sikerének.
