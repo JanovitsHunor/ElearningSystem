@@ -207,5 +207,14 @@ A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhaszn
 A kommunikációs funkciók lehetővé teszik a tanulók és oktatók közötti interakciót, valamint a tartalmak megbeszélését és megértését.
 
 
+## Teljesítménymérés és Elemzés
+
+A rendszerben teljesítménymérés és elemzés funkciókra van szükség a következő okokból:
+
+- **Felhasználói előrehaladás nyomon követése**: A rendszernek lehetőséget kell adnia az oktatóknak a diákok előrehaladásának nyomon követésére. Ez magában foglalja a kurzusokon elért eredmények és teljesítmények elemzését.
+
+- **Kurzusok hatékonyságának értékelése**: Az oktatóknak és adminisztrátoroknak lehetőséget kell biztosítani a kurzusok hatékonyságának értékelésére. Ez segítheti a kurzusok továbbfejlesztését és a tanítási módszerek optimalizálását.
+
+- **Jelentések és statisztikák**: A rendszernek automatikus jelentések és statisztikák generálására is képesnek kell lennie. Ezek az információk segítenek az oktatóknak és adminisztrátoroknak a rendszer teljesítményének és a diákok fejlődésének megértésében.
 
 
