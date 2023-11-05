@@ -172,3 +172,13 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 ## Tanulhatóság
 
 1. A rendszernek kontextusfüggő online súgót kell biztosítania.
+
+## Managelhetőség
+
+1. A rendszernek képesnek kell lennie az alábbi fájltípusokban képzési anyagokat fogadni:
+   a) Microsoft által támogatott termékekhez tartozó formátumok Word, Excel és PowerPoint számára.
+   b) Adobe Acrobat Reader (PDF)
+   c) Általános videofájl formátumok (pl. vob, wmv, mp4)
+   d) Általános képformátumok (pl. png, jpg, gif)
+2. A rendszernek vezetnünk kell egy audit naplót minden felhasználó tranzakciójáról, és képesnek kell lennie a naplózásokról jelentést készíteni.
+3. A rendszernek képesnek kell lennie jelentéseket készíteni kérésre, és részletes eredményeket szolgáltatni az import és export tevékenységekről.
