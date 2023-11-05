@@ -160,3 +160,5 @@ A fenti követelményeknek megfelelően tervezett felhasználói felület hozzá
 ## Felhasználói Jogosultságok
 
 A rendszerben különböző felhasználói típusoknak különböző jogosultságokat kell biztosítani a következőképpen:
+
+- **Adminisztrátorok**: Az adminisztrátoroknak teljes hozzáférési jogosultságuk kell lennie a rendszerhez. Képesek lesznek a felhasználói fiókok kezelésére, új kurzusok létrehozására és a rendszer konfigurációjának módosítására.
