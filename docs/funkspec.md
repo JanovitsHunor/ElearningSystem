@@ -96,3 +96,7 @@ Az adatbázisban számos entitást kell tárolnunk a rendszer működéséhez. A
 
 2. **Oktatók (Instructors):**
    - Az oktatók további adatait tárolja ebben a táblában.
+  
+## Miért hasznos egy E-Learning Rendszer?
+
+Az e-learning rendszernek számos előnye van, amelyeket az oktatás és képzés terén alkalmazva kiemelkedő eredményeket lehet elérni:
