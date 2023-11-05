@@ -210,3 +210,11 @@ A rendszerben teljesítménymérés és elemzés funkciókra van szükség a kö
 - **Kurzusok hatékonyságának értékelése**: Az oktatóknak és adminisztrátoroknak lehetőséget kell biztosítani a kurzusok hatékonyságának értékelésére. Ez segítheti a kurzusok továbbfejlesztését és a tanítási módszerek optimalizálását.
 
 - **Jelentések és statisztikák**: A rendszernek automatikus jelentések és statisztikák generálására is képesnek kell lennie. Ezek az információk segítenek az oktatóknak és adminisztrátoroknak a rendszer teljesítményének és a diákok fejlődésének megértésében.
+
+- **Felhasználói visszajelzések elemzése**: A rendszernek lehetőséget kell adnia a felhasználói visszajelzések gyűjtésére és elemzésére. Ezek a visszajelzések segíthetik a rendszer fejlesztését és a felhasználói élmény javítását.
+
+- **Kurzusok teljesítése és tanúsítványok**: A rendszernek lehetőséget kell biztosítania a diákoknak a kurzusok befejezésének és a tanúsítványok megszerzésének nyomon követésére.
+
+- **Adatbiztonság és adatvédelem**: A teljesítménymérés során az adatbiztonságra és az adatvédelemre is különös figyelmet kell fordítani, hogy a felhasználók személyes adatai biztonságban legyenek.
+
+A teljesítménymérés és elemzés funkciók segítenek az oktatóknak és az adminisztrátoroknak a rendszer hatékonyságának és a diákok fejlődésének monitorozásában és értékelésében.
