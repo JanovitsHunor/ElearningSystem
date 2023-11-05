@@ -148,3 +148,9 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
 
 A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
+
+## Tartalomkezelés
+
+A rendszer tartalomkezelésének számos fontos aspektusa van:
+
+- **Tartalomfeltöltés**: Az oktatóknak és tartalomkészítőknek könnyen kell tudniuk feltölteni és frissíteni a kurzusokhoz tartozó tartalmakat. A rendszernek támogatnia kell a különböző médiafájlok, például képek, videók és dokumentumok feltöltését. Emellett a tartalomfeltöltési folyamatnak egyszerű és intuitívnek kell lennie.
