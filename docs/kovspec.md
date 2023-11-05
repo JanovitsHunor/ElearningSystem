@@ -2,7 +2,7 @@
 
 ## Bevezetés
 
-Az E-Learning Kezelőrendszer (LMS) kifejlesztéséhez szükség van egy alapos bevezetésre, amely bemutatja az LMS rendszer céljait és a projekttel kapcsolatos általános kontextust. A bevezetés kulcsfontosságú információkat tartalmaz a projekt hátteréről és céljairól.
+Az E-Learning Kezelőrendszer (LMS) kifejlesztéséhez szükség van egy alapos bevezetésre, amely bemutatja az LMS rendszer céljait és a projekttel kapcsolatos általános kontextust. A bevezetés kulcsfontosságú információkat tartalmaz a projekt hátteréről és céljairól. Az e-learning rendszerek egyre fontosabb szerepet játszanak az oktatásban és a képzési folyamatokban. A digitalizáció térhódításával és az információtechnológia fejlődésével az online tanulás vált az oktatás alapvető részévé. Ez a követelményspecifikáció olyan e-learning rendszert ír le, amely a modern oktatási igényeknek megfelelően készül, és lehetővé teszi a hatékony, hozzáférhető és interaktív tanulást.
 
 Fontos leszögezni, hogy az általunk módosított Elearning Kezelőrendszer (LMS) eredeti forráskódja [itt](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) található meg.
 
