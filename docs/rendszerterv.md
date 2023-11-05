@@ -102,3 +102,8 @@ A hatodik lépésben a felhasználói visszajelzések alapján finomhangoljuk a 
 - **Finomhangolás és Fejlesztések:** Az észrevett igények és problémák alapján a rendszer további finomhangolása és fejlesztése.
 
 A fejlesztési ütemterv rugalmas és az aktuális projekt szükségleteihez igazítható. Az időzítés és az egyes lépések prioritása a projekt méretétől és az elvárásoktól függően változhat. A cél az, hogy egy rugalmas, hatékony és felhasználóbarát LMS rendszert hozzunk létre, amely a tanárok és diákok igényeinek megfelel.
+
+### Következtetés
+Az E-Learning Kezelőrendszer (LMS) rendszerterve részletesen bemutatja a rendszer fő komponenseit és azok működését. A tervezési dokumentum segít az építőknek és fejlesztőknek a rendszer hatékony megvalósításában és fejlesztésében.
+
+Az LMS rendszerek napjainkban kulcsfontosságú szerepet játszanak az oktatásban és tanulásban. Az általunk tervezett rendszer lehetővé teszi tanárok és diákok számára a hatékony és interaktív oktatást, függetlenül attól, hogy hol találják magukat a világon. A következő néhány pont alapján összefoglaljuk a rendszer fő előnyeit és potenciális hatásait:
