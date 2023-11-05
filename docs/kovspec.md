@@ -178,3 +178,10 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfontosságú a rendszer biztonságának és az adatvédelemnek megőrzése szempontjából.
 
 ---
+
+
+## Kommunikáció és Üzenetküldés
+
+A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhasználók számára:
+
+- **Üzenetküldés**: A felhasználóknak lehetőséget kell adni egymásnak privát üzenetek küldésére a rendszeren belül. Ez lehetővé teszi az oktatók és diákok közötti együttműködést, valamint a kérdések és válaszok cseréjét.
