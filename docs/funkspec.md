@@ -200,10 +200,12 @@ A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhaszn
 
 - **Értesítések**: Az automatikus értesítések segítenek a felhasználóknak a fontos eseményekről és határidőkről való értesítésben. Ez lehetővé teszi az oktatóknak és diákoknak, hogy mindig naprakészek legyenek a kurzusaikkal kapcsolatos változásokról.
 
+- **Mobilalkalmazás integráció**: Amennyiben rendelkezésre áll, a rendszernek lehetőséget kell biztosítania a mobilalkalmazásokkal történő kommunikációra, beleértve az értesítéseket és az üzenetküldést mobil eszközökön keresztül.
+
 - **Adatvédelem és moderálás**: Fontos, hogy a kommunikáció során az adatvédelmet tiszteletben tartsuk, és lehetőséget biztosítsunk a moderálásra, hogy elkerüljük a zaklatást és a nem kívánt tartalmak megjelenését.
 
 A kommunikációs funkciók lehetővé teszik a tanulók és oktatók közötti interakciót, valamint a tartalmak megbeszélését és megértését.
 
 
-- **Mobilalkalmazás integráció**: Amennyiben rendelkezésre áll, a rendszernek lehetőséget kell biztosítania a mobilalkalmazásokkal történő kommunikációra, beleértve az értesítéseket és az üzenetküldést mobil eszközökön keresztül.
+
 
