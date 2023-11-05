@@ -188,3 +188,5 @@ A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhaszn
 
 
 - **Kommentek**: A kurzusok és tartalmak alatt lehetőség kell lennie kommentek hozzáfűzésére. Ez segíti a diákokat és oktatókat a tartalmakkal kapcsolatos kérdések megvitatásában, valamint az interakcióban.
+
+- **Fórumok és közösségi terek**: A rendszernek lehetőséget kell biztosítania fórumok és közösségi terek létrehozására, ahol a felhasználók szabadon megoszthatják gondolataikat, tapasztalataikat és ötleteiket.
