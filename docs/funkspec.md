@@ -116,3 +116,7 @@ Ez a követelményspecifikáció olyan e-learning rendszer fejlesztését céloz
 - Oktatók és oktatási intézmények, akik hatékonyabb és interaktív oktatási anyagokat szeretnének létrehozni és terjeszteni.
 - Diákok és tanulók, akiknek kényelmes és hozzáférhető tanulási lehetőségekre van szükségük.
 - Vállalatok és vállalkozások, akik képzési programjaikat és továbbképzéseiket szeretnék modernizálni és hatékonyabbá tenni.
+
+Az e-learning rendszer tervezése és fejlesztése során ezeknek a csoportoknak a szükségleteit és elvárásait figyelembe vesszük.
+
+---
