@@ -82,3 +82,10 @@ A harmadik lépésben a rendszer keresési és kategorizálási funkcióit hozzu
 
 #### Lépés 4: Rendszerbiztonság és Jogosultságkezelés Implementálása
 A negyedik lépésben a rendszerbiztonságot és a jogosultságkezelést helyezzük előtérbe.
+
+- **Adatvédelem és Biztonság:** Az adatok biztonságos tárolásának és védelmének biztosítása, beleértve a felhasználói adatokat.
+
+- **Jogosultságkezelés:** A rendszer biztosítja, hogy minden felhasználó csak a megfelelő hozzáférésekkel rendelkező tartalmakhoz férjen hozzá.
+
+#### Lépés 5: Tesztelés és Hibajavítás
+Az ötödik lépésben a rendszer teljes körű tesztelésen megy keresztül, és a felmerülő hibákat javítjuk.
