@@ -178,3 +178,8 @@ A rendszerben különböző felhasználói típusoknak különböző jogosultsá
 
 - **Diákok**: A diákoknak csak a kurzusokhoz és a saját profiljukhoz kell hozzáférési jogosultságot kapniuk. Képesek lesznek a kurzusokra való regisztrációra, a kurzusok tartalmának elérésére és a saját előrehaladásuk követésére.
 
+- **Látogatók**: A látogatóknak korlátozott hozzáférési jogosultságot kell kapniuk. Lehetőséget kell biztosítani a rendszer böngészésére, de nem tudnak kurzusokhoz regisztrálni vagy tartalmakat elérni.
+
+- **Hozzáférési ellenőrzés**: A rendszernek gondoskodnia kell a hozzáférési jogosultságok pontos ellenőrzéséről. A jogosultságok beállításainak könnyen módosíthatónak kell lenniük az adminisztrátorok számára, és a felhasználók csak a saját jogosultságuknak megfelelő tartalmakat láthatják.
+
+- **Bejelentkezési jogosultságok**: A rendszernek megfelelő bejelentkezési jogosultságokat kell biztosítania. A felhasználók számára biztonságos bejelentkezési folyamatot kell garantálni, beleértve a jelszóváltoztatási lehetőséget és a kétlépcsős azonosítást.
