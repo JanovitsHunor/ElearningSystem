@@ -104,3 +104,7 @@ Az e-learning rendszernek számos előnye van, amelyeket az oktatás és képzé
 - Rugalmasság: Az e-learning lehetővé teszi a tanulók számára, hogy saját ütemükben és az igényeiknek megfelelően tanuljanak. Nem szükséges fizikailag jelen lenni az oktatási intézményben.
 
 - Hozzáférhetőség: Az online tanulás bárhol és bármikor elvégezhető, ami különösen előnyös a távoli vagy elfoglalt tanulók számára.
+
+- Interaktivitás: Az e-learning rendszerek képesek interaktív tartalmakat biztosítani, amelyek segítik a tanulók bevonását és megértését.
+
+- Skálázhatóság: Az e-learning lehetővé teszi az oktatási anyagok könnyű és hatékony terjesztését, és széles körű diákok elérését.
