@@ -185,3 +185,6 @@ A felhasználói jogosultságok pontos beállítása és ellenőrzése kulcsfont
 A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhasználók számára:
 
 - **Üzenetküldés**: A felhasználóknak lehetőséget kell adni egymásnak privát üzenetek küldésére a rendszeren belül. Ez lehetővé teszi az oktatók és diákok közötti együttműködést, valamint a kérdések és válaszok cseréjét.
+
+
+- **Kommentek**: A kurzusok és tartalmak alatt lehetőség kell lennie kommentek hozzáfűzésére. Ez segíti a diákokat és oktatókat a tartalmakkal kapcsolatos kérdések megvitatásában, valamint az interakcióban.
