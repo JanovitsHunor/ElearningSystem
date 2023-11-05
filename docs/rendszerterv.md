@@ -133,3 +133,14 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 7. A rendszernek naponta legalább egyszer köteles importálni az ELS alaprendszer munkavállalói és/vagy képzési információkat REST API-n keresztül és/vagy sFTP lapos fájl segítségével.
 8. A rendszernek képesnek kell lennie REST API híváskor az ELS termék és az ügynökségi kód használatára, illetve az ELS termék és ügynökségi kód azonosítására egy lapos fájlban az adatcserék során.
 9. A rendszernek képesnek kell lennie az azonosításra REST API híváskor.
+    
+## Követelmények
+
+1. A rendszernek képesnek kell lennie az LMS alaprendszer rekordjainak importálására az összes olyan munkavállaló számára, akik változtak az utolsó ECR REST API adatforrás és/vagy lapos fájl óta egy adott ügynökségi kódhoz.
+2. A rendszernek képesnek kell lennie arra, hogy megállapítsa, egy munkavállaló már nem létezik az ECR REST API adatforrás és/vagy lapos fájl hiányára alapozva, és kikapcsolja azt a munkavállaló rekordot az LMS-ben.
+3. A rendszernek frissítenie kell a munkavállalót érintő import folyamaton keresztül (ECR REST API adatforrás és/vagy lapos fájl) az LMS alaprendszerből származó mezőkkel kapcsolatban.
+4. A rendszernek nem szabad engedélyeznie a munkavállalói mezők frissítését, amelyeket az ECR alaprendszerből importálnak.
+5. A rendszernek képesnek kell lennie diákok képzési információinak exportálására REST API és/vagy lapos fájl exportok segítségével. Csak azokat a rekordokat kell tartalmaznia, amelyek az utolsó adatcserét követően újra kerültek, vagy módosultak vagy töröltek. Ezt naponta legalább egyszer kell végrehajtani.
+6. A rendszernek a LMS termék és az ügyfél minisztériumának Agency Code-jával történő API hívás vagy egy lapos fájl exportja segítségével kell importálnia az adatelemeket az LMS alaprendszerből.
+7. A rendszernek a LMS termék, az ügynökségi kód és az LMS alaprendszer UEID-jével történő REST API hívás segítségével kell adatokat importálnia egy munkavállaló képzési előzményeiről.
+8. A rendszernek egyedi kurzus számokkal kell rendelkeznie.
