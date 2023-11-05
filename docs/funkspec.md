@@ -154,3 +154,7 @@ A fenti követelményeknek megfelelően tervezett felhasználói felület hozzá
 A rendszer tartalomkezelésének számos fontos aspektusa van:
 
 - **Tartalomfeltöltés**: Az oktatóknak és tartalomkészítőknek könnyen kell tudniuk feltölteni és frissíteni a kurzusokhoz tartozó tartalmakat. A rendszernek támogatnia kell a különböző médiafájlok, például képek, videók és dokumentumok feltöltését. Emellett a tartalomfeltöltési folyamatnak egyszerű és intuitívnek kell lennie.
+
+- **Tartalom szerkesztése**: A tartalom szerkesztésének lehetőségének kell lennie. Az oktatók és tartalomkészítők könnyen módosíthatják és frissíthetik a kurzusok tartalmát, például új leckék vagy modulok hozzáadásával. A szerkesztőfelületnek lehetőséget kell adnia a szövegszerkesztésre, formázásra és multimédiás elemek beillesztésére.
+
+- **Kategóriák és címkék**: A tartalmak kategorizálása és címkézése segíthet a felhasználóknak a könnyű navigációban és a tartalom gyors megtalálásában. A rendszernek lehetőséget kell adnia a tartalmak csoportosítására kategóriák és címkék segítségével.
