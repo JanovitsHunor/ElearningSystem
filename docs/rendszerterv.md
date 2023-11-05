@@ -121,3 +121,15 @@ Az LMS rendszerek napjainkban kulcsfontosságú szerepet játszanak az oktatásb
 Az LMS rendszerrel a tanárok új oktatási lehetőségeket fedezhetnek fel, míg a diákok interaktív módon tanulhatnak. Ez a rendszer lehetővé teszi az oktatás demokratizálását és az oktatáshoz való hozzáférést, ami hozzájárulhat a tudás terjedéséhez és a személyes fejlődéshez.
 
 A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az LMS rendszerben, amelyek a felhasználói visszajelzések és az oktatási igények figyelembevételével alakulnak ki. Az LMS rendszerünk hozzájárulhat a modern oktatás és tanulás fejlődéséhez és előmozdításához, és lehetőséget teremthet a tudás megosztására a világ minden táján.
+
+## Átláthatóság
+
+1. Az ELS-nek biztosítania kell az interoperabilitást, amely kihasználja az ELS alaprendszer egyedi munkavállaló azonosítóját (UEID) annak érdekében, hogy nyomon követhesse egy hallgatót az ELS rendszerben és az adatcserék során.
+2. A hallgató és munkavállaló kifejezéseket egymás helyett használhatjuk ebben az IFB/SOW-dokumentumban.
+3. Az ELS rendszernek hívnia kell API-kat és/vagy küldenie kell lapos fájlokat a minisztérium ügynökségi kódjával és az azonosított ELS termék nevével.
+4. A rendszernek kivételjelentést kell generálnia, amikor egy hallgató információja nem kerül megfelelően feltöltésre.
+5. A rendszernek batch feltöltéseket kell fogadnia az adatokra.
+6. A rendszernek kapcsolatba kell hoznia és nyomon kell követnie egy hallgatót és az összes kapcsolódó adatot, amelyeket az ELS alaprendszerből az UEID felhasználásával importál.
+7. A rendszernek naponta legalább egyszer köteles importálni az ELS alaprendszer munkavállalói és/vagy képzési információkat REST API-n keresztül és/vagy sFTP lapos fájl segítségével.
+8. A rendszernek képesnek kell lennie REST API híváskor az ELS termék és az ügynökségi kód használatára, illetve az ELS termék és ügynökségi kód azonosítására egy lapos fájlban az adatcserék során.
+9. A rendszernek képesnek kell lennie az azonosításra REST API híváskor.
