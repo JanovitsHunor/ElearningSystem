@@ -89,3 +89,16 @@ A negyedik lépésben a rendszerbiztonságot és a jogosultságkezelést helyezz
 
 #### Lépés 5: Tesztelés és Hibajavítás
 Az ötödik lépésben a rendszer teljes körű tesztelésen megy keresztül, és a felmerülő hibákat javítjuk.
+
+- **Tesztelés:** Funkcionális és felhasználói tesztek végrehajtása a rendszer működésének ellenőrzésére.
+
+- **Hibajavítás:** A tesztek során felfedezett hibák és hiányosságok kijavítása.
+
+#### Lépés 6: Felhasználói Visszajelzések Alapján Finomhangolás és Fejlesztések
+A hatodik lépésben a felhasználói visszajelzések alapján finomhangoljuk a rendszert és végzünk további fejlesztéseket.
+
+- **Felhasználói Visszajelzések Gyűjtése:** A rendszer aktív használata után a felhasználói visszajelzések összegyűjtése és elemzése.
+
+- **Finomhangolás és Fejlesztések:** Az észrevett igények és problémák alapján a rendszer további finomhangolása és fejlesztése.
+
+A fejlesztési ütemterv rugalmas és az aktuális projekt szükségleteihez igazítható. Az időzítés és az egyes lépések prioritása a projekt méretétől és az elvárásoktól függően változhat. A cél az, hogy egy rugalmas, hatékony és felhasználóbarát LMS rendszert hozzunk létre, amely a tanárok és diákok igényeinek megfelel.
