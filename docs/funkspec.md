@@ -157,4 +157,7 @@ A rendszer tartalomkezelésének számos fontos aspektusa van:
 
 - **Tartalom szerkesztése**: A tartalom szerkesztésének lehetőségének kell lennie. Az oktatók és tartalomkészítők könnyen módosíthatják és frissíthetik a kurzusok tartalmát, például új leckék vagy modulok hozzáadásával. A szerkesztőfelületnek lehetőséget kell adnia a szövegszerkesztésre, formázásra és multimédiás elemek beillesztésére.
 
+- **Verziókezelés**: Fontos, hogy a rendszer támogassa a tartalom verziókezelését. Ez lehetővé teszi a változások visszavonását és a korábbi verziók visszaállítását, ami különösen hasznos lehet a tartalomhibák vagy változtatások utólagos kezelésekor.
+
+- **Jogosultságok és hozzáférési ellenőrzés**: A tartalomhozzáférés jogosultságait és engedélyeit kell beállítani. Az oktatók és tartalomkészítőknek csak az általuk létrehozott tartalmakhoz kell hozzáférést kapniuk, míg a diákok csak azokhoz, amelyeket regisztráltak.
 - **Kategóriák és címkék**: A tartalmak kategorizálása és címkézése segíthet a felhasználóknak a könnyű navigációban és a tartalom gyors megtalálásában. A rendszernek lehetőséget kell adnia a tartalmak csoportosítására kategóriák és címkék segítségével.
