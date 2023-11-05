@@ -1,5 +1,9 @@
 # Funkcionális Specialitás: eLearning Tartalomkezelő és Felhasználói Fiókok
 
+## Bevezetés
+
+A virtuális oktatás népszerűségének növekedésével egyre növekvő igény merült fel olyan online oktatási platformok iránt, amelyek lehetővé teszik az oktatók és diákok számára a hatékony és interaktív tanulási környezetet. Ebben a rendszertervezési specifikációban egy ilyen platform tervezésére összpontosítunk, amely lehetővé teszi az oktatók és diákok számára a tartalomkezelést, tanulást, értékelést és kommunikációt egy intuitív és felhasználóbarát felületen keresztül.
+
 ## Tanár Funkciók:
 1. **Kurzusok Létrehozása:** A tanárok a rendszerben könnyedén létrehozhatnak kurzusokat a különböző tantárgyakhoz, melyekben előre meghatározott sablonokat is felhasználhatnak. Ezen felül lehetőségük van a kurzusok tematizálására, illetve időzítésre is, így az anyagok szinkronizálhatók az órarenddel.
 
