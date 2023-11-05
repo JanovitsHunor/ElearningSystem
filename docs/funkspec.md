@@ -132,3 +132,19 @@ A felhasználói felületnek a következő követelményeknek kell megfelelnie:
 4. **Bejelentkezés és hitelesítés**: A rendszernek biztonságos bejelentkezési mechanizmust kell biztosítania a felhasználók számára. A hitelesítési folyamatnak lehetőséget kell adnia a felhasználóknak a jelszó visszaállítására, valamint kétlépcsős azonosításra.
 
 5. **Személyre szabás**: A rendszernek lehetőséget kell adnia a felhasználóknak a profiljuk testreszabására, például a felhasználói kép, név és értesítések beállításainak módosítására.
+
+6. **Kurzuskezelés**: A felhasználók könnyen böngészhetik a rendszer által elérhető kurzusokat, és könnyedén regisztrálhatnak bármelyikbe. Az aktuális kurzusokat és előrehaladásukat jól láthatóan kell megjeleníteni.
+
+7. **Tartalomkezelés**: A tartalomfeltöltés és szerkesztés könnyen kezelhető legyen az oktatók és tartalomkészítők számára. Képek, videók és dokumentumok feltöltését is támogassa a rendszer.
+
+8. **Kommunikáció és értesítések**: A rendszernek lehetőséget kell biztosítania az oktatók és diákok közötti kommunikációra, például üzenetküldési funkcióval. Emellett automatikus értesítésekkel kell rendelkeznie, amelyek informálják a felhasználókat a fontos eseményekről és határidőkről.
+
+9. **Teljesítmény- és előrehaladás nyomon követése**: A rendszernek lehetőséget kell adnia a diákoknak és oktatóknak a tanulási teljesítmény és előrehaladás nyomon követésére. A felhasználóknak könnyen elérhetők legyenek az értékelések, eredmények és statisztikák.
+
+10. **Hozzáférhetőség**: A rendszernek megfelelő hozzáférhetőségi szabványoknak kell megfelelnie, hogy az akadálymentes használat is biztosított legyen.
+
+11. **Keresési funkció**: A felhasználóknak egyszerűen kereshetőknek kell lenniük a kurzusok, tartalmak és felhasználók. A keresési funkció hatékony és gyors eredményeket kell szolgáltatnia.
+
+12. **Dokumentáció és támogatás**: A rendszernek tartalmaznia kell egy használati útmutatót, valamint könnyen elérhető támogatási lehetőségeket, például chat vagy e-mail támogatást.
+
+A fenti követelményeknek megfelelően tervezett felhasználói felület hozzájárulhat a hatékony és kényelmes online tanulási élményhez, és segíthet a felhasználóknak a tartalom könnyű elérésében és kezelésében.
