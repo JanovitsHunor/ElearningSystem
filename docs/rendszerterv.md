@@ -182,3 +182,8 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
    d) Általános képformátumok (pl. png, jpg, gif)
 2. A rendszernek vezetnünk kell egy audit naplót minden felhasználó tranzakciójáról, és képesnek kell lennie a naplózásokról jelentést készíteni.
 3. A rendszernek képesnek kell lennie jelentéseket készíteni kérésre, és részletes eredményeket szolgáltatni az import és export tevékenységekről.
+
+## Megbízhatóság
+
+1. A rendszernek követnie és megjelenítenie kell a hallgatói információkat, beleértve az LMS alaprendszer által szolgáltatott UEID-t.
+2. A rendszernek vezetnie kell auditnaplókat az összes végrehajtott tranzakcióról az elsődleges adatkészleteken.
