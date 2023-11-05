@@ -86,3 +86,13 @@ A fent felsorolt felhasználói funkciók és kezelőfelületi tervezés segíte
 4. **Értékelések és Visszajelzés:** A diákok részt vehetnek a kvízekben és feladatokban, és azonnali visszajelzést kapnak a teljesítményükről. Emellett a tanárok is figyelemmel kísérhetik a diákok előrehaladását és szükség esetén visszajelzéseket adhatnak.
 
 Az eLearning kezelőrendszerünk széleskörű lehetőségeket kínál mind a tanároknak, mind a diákoknak. Az oktatók egyszerűen létrehozhatnak és testre szabhatnak kurzusokat, miközben a diákok könnyedén hozzáférhetnek a tartalmakhoz és a tanulás élményét élvezhetik. Az interaktivitás és az automatizált értékelési funkciók segítségével a tanulás hatékony és szórakoztató lesz mindkét fél számára.
+
+## Adatbázis Szerkezet
+
+Az adatbázisban számos entitást kell tárolnunk a rendszer működéséhez. Az alábbiakban felsoroljuk ezeket:
+
+1. **Felhasználók (Users):**
+   - Az összes felhasználó adatait ebben a táblában tároljuk, beleértve a felhasználónevet, jelszót, e-mail címet, regisztrációs dátumot stb.
+
+2. **Oktatók (Instructors):**
+   - Az oktatók további adatait tárolja ebben a táblában.
