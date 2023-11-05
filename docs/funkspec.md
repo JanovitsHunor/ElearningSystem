@@ -196,3 +196,9 @@ A rendszerben számos kommunikációs lehetőséget kell biztosítani a felhaszn
 
 - **Kommentek**: A kurzusok és tartalmak alatt lehetőség kell lennie kommentek hozzáfűzésére. Ez segíti a diákokat és oktatókat a tartalmakkal kapcsolatos kérdések megvitatásában, valamint az interakcióban.
 
+- **Fórumok és közösségi terek**: A rendszernek lehetőséget kell biztosítania fórumok és közösségi terek létrehozására, ahol a felhasználók szabadon megoszthatják gondolataikat, tapasztalataikat és ötleteiket.
+
+- **Értesítések**: Az automatikus értesítések segítenek a felhasználóknak a fontos eseményekről és határidőkről való értesítésben. Ez lehetővé teszi az oktatóknak és diákoknak, hogy mindig naprakészek legyenek a kurzusaikkal kapcsolatos változásokról.
+
+- **Mobilalkalmazás integráció**: Amennyiben rendelkezésre áll, a rendszernek lehetőséget kell biztosítania a mobilalkalmazásokkal történő kommunikációra, beleértve az értesítéseket és az üzenetküldést mobil eszközökön keresztül.
+
