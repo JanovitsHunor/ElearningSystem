@@ -120,3 +120,15 @@ Ez a követelményspecifikáció olyan e-learning rendszer fejlesztését céloz
 Az e-learning rendszer tervezése és fejlesztése során ezeknek a csoportoknak a szükségleteit és elvárásait figyelembe vesszük.
 
 ---
+
+A felhasználói felületnek a következő követelményeknek kell megfelelnie:
+
+1. **Felhasználóbarát kezelőfelület**: A rendszernek egyszerű és intuitív kezelőfelülettel kell rendelkeznie, amely lehetővé teszi a felhasználók számára könnyű navigációt és a funkciók gyors megtalálását. A menük, gombok és elemek elrendezése és elnevezése legyen egyértelmű és érthető.
+
+2. **Vizuális kialakítás**: A felhasználói felületnek esztétikusnak és vonzónak kell lennie. A színpaletta, betűtípusok és ikonok harmonikusan illeszkedjenek egymáshoz, és tükrözzék a vállalati arculatot vagy a rendszer jellegét.
+
+3. **Képernyőméret-érzékenység**: A rendszernek reszponzív tervezéssel kell rendelkeznie, hogy különböző eszközökön (asztali gépek, táblagépek, mobiltelefonok) is könnyen használható legyen, és a tartalom automatikusan igazodjon a kijelző méretéhez.
+
+4. **Bejelentkezés és hitelesítés**: A rendszernek biztonságos bejelentkezési mechanizmust kell biztosítania a felhasználók számára. A hitelesítési folyamatnak lehetőséget kell adnia a felhasználóknak a jelszó visszaállítására, valamint kétlépcsős azonosításra.
+
+5. **Személyre szabás**: A rendszernek lehetőséget kell adnia a felhasználóknak a profiljuk testreszabására, például a felhasználói kép, név és értesítések beállításainak módosítására.
