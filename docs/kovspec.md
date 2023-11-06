@@ -247,3 +247,7 @@ A fent felsorolt technológiák és követelmények teljesítése kulcsfontossá
 
 2. **Felhasználói Felület:**
    - A felhasználói felületnek reszponzívnek kell lennie, hogy támogassa a különböző eszközöket, beleértve a mobiltelefonokat és táblagépeket.
+
+3. **Biztonság:**
+   - A felhasználói jelszavaknak erős titkosítással kell lenniük védve.
+   - Az alkalmazásnak ellenállnia kell a biztonsági fenyegetéseknek, például SQL-injekcióknak.
