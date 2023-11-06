@@ -240,3 +240,7 @@ A rendszernek a következő technológiákat és követelményeket kell teljesí
 A fent felsorolt technológiák és követelmények teljesítése kulcsfontosságú a rendszer hatékony működése és a felhasználói élmény biztosítása szempontjából.
 
 ## Technológiai Követelmények
+
+1. **Programozási Nyelv és Adatbázis:**
+   - Az alkalmazást PHP programozási nyelv használatával fejlesztjük.
+   - Az adatbáziskezeléshez MySQL-t alkalmazunk.
