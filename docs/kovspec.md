@@ -232,3 +232,9 @@ A rendszernek a következő technológiákat és követelményeket kell teljesí
 - **Interaktív funkciók JavaScript segítségével**: Az interaktív funkciók, például az élő kereső, a diákok közötti kommunikáció és a dinamikus tartalom betöltése JavaScript segítségével kell implementálni. Ennek révén a felhasználók számára gyors és interaktív élményt nyújthatunk.
 
 - **Keresőoptimalizálás (SEO)**: A weboldalnak megfelelő SEO gyakorlatokat kell követnie, hogy a tartalom könnyen megtalálható legyen a keresőmotorokban.
+
+- **Mobilbarát felület**: A felhasználói felületnek reszponzív tervezéssel kell rendelkeznie, hogy a különböző eszközökön is használható legyen, beleértve az asztali számítógépeket, táblagépeket és mobiltelefonokat.
+
+- **Biztonság és adatvédelem**: A rendszernek megfelelő biztonsági intézkedéseket kell tartalmaznia a felhasználói adatok védelme érdekében. Ez magában foglalja a jelszókezelést és a hozzáférési jogosultságok ellenőrzését.
+
+A fent felsorolt technológiák és követelmények teljesítése kulcsfontosságú a rendszer hatékony működése és a felhasználói élmény biztosítása szempontjából.
