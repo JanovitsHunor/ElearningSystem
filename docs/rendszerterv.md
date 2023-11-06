@@ -220,3 +220,11 @@ Bejelentkezés (SSO) tokeneket.
 3. A rendszernek kapcsolatot kell teremtenie tesztek és vizsgák között a kurzusok és tantervekkel.
 4. A rendszernek streamelnie kell a CBT, WBT és webinárokat a hallgató profiljából vagy fiókjából.
 5. A rendszernek lehetővé kell tennie CBT, WBT és webinárok kurzusainak fogadását és feltöltését.
+6. A rendszernek elektronikus és nyomtatott formában is kezelnie kell a képzési anyagokat az alábbi erőforrások esetében:
+   a) Munka segédletek
+   b) Oktatói kézikönyvek
+   c) Felhasználói kézikönyvek
+   d) Oktató vezette prezentációk
+   e) CBT-k/WBT-k
+7. A rendszernek fel kell tennie a tanúsítványokat a befejezésről, a kurzus regisztrációs lapokat és értékeléseket.
+8. A rendszernek egy gazdag szövegszerkesztőt kell biztosítania HTML képességekkel.
