@@ -210,3 +210,5 @@ Bejelentkezés (SSO) tokeneket.
 2. A rendszernek lehetővé kell tennie a felhasználói információk módosítását, amelyek nem kapcsolódnak az ECR-hez.
 3. A rendszernek támogatnia kell a hozzáférés, nézetek, funkciók és biztonsági szerepek kezelését, például hallgató, oktató, programadminisztrátor és technikai adminisztrátor.
 4. A rendszernek támogatnia kell az egyszeri bejelentkezést (SSO).
+5. A rendszernek lehetővé kell tennie a tartalom előnézetét a közzététel előtt.
+6. A rendszernek támogatnia kell a testreszabott mezőket.
