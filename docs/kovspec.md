@@ -226,3 +226,9 @@ A rendszernek a következő technológiákat és követelményeket kell teljesí
 - **Backend fejlesztés PHP-ben**: A rendszer hátterének PHP nyelven történő fejlesztése szükséges. Ez biztosítja a szerveroldali logika megvalósítását, például a felhasználói adatok kezelését és az adatbázis-kapcsolatot.
 
 - **Adatbázis MySQL használatával**: Az adatok tárolásához és kezeléséhez MySQL adatbázis szükséges. Az adatbázisban kell tárolni a felhasználói profilokat, kurzusinformációkat, felhasználói előrehaladást és egyéb adatokat.
+
+- **Felhasználói felület HTML és CSS használatával**: A felhasználói felületet HTML és CSS technológiák segítségével kell kialakítani. Az HTML felelős az oldalstruktúráért, míg a CSS a dizájn és stílusok testre szabásáért.
+
+- **Interaktív funkciók JavaScript segítségével**: Az interaktív funkciók, például az élő kereső, a diákok közötti kommunikáció és a dinamikus tartalom betöltése JavaScript segítségével kell implementálni. Ennek révén a felhasználók számára gyors és interaktív élményt nyújthatunk.
+
+- **Keresőoptimalizálás (SEO)**: A weboldalnak megfelelő SEO gyakorlatokat kell követnie, hogy a tartalom könnyen megtalálható legyen a keresőmotorokban.
