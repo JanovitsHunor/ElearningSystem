@@ -217,3 +217,6 @@ Bejelentkezés (SSO) tokeneket.
 
 1. A rendszernek lehetővé kell tennie letölthető tartalmakat különböző médiaformátumokban (pl. PowerPoint, MS Word, PDF) számítógépről vagy mobil eszközről történő használathoz.
 2. A rendszernek össze kell kapcsolnia a CBT, WBT és e-Learning webinárokat egy oktató vezette képzési kurzussal.
+3. A rendszernek kapcsolatot kell teremtenie tesztek és vizsgák között a kurzusok és tantervekkel.
+4. A rendszernek streamelnie kell a CBT, WBT és webinárokat a hallgató profiljából vagy fiókjából.
+5. A rendszernek lehetővé kell tennie CBT, WBT és webinárok kurzusainak fogadását és feltöltését.
