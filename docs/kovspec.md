@@ -218,3 +218,11 @@ A rendszerben teljesítménymérés és elemzés funkciókra van szükség a kö
 - **Adatbiztonság és adatvédelem**: A teljesítménymérés során az adatbiztonságra és az adatvédelemre is különös figyelmet kell fordítani, hogy a felhasználók személyes adatai biztonságban legyenek.
 
 A teljesítménymérés és elemzés funkciók segítenek az oktatóknak és az adminisztrátoroknak a rendszer hatékonyságának és a diákok fejlődésének monitorozásában és értékelésében.
+
+## Követelmények Teljesítése
+
+A rendszernek a következő technológiákat és követelményeket kell teljesítenie:
+
+- **Backend fejlesztés PHP-ben**: A rendszer hátterének PHP nyelven történő fejlesztése szükséges. Ez biztosítja a szerveroldali logika megvalósítását, például a felhasználói adatok kezelését és az adatbázis-kapcsolatot.
+
+- **Adatbázis MySQL használatával**: Az adatok tárolásához és kezeléséhez MySQL adatbázis szükséges. Az adatbázisban kell tárolni a felhasználói profilokat, kurzusinformációkat, felhasználói előrehaladást és egyéb adatokat.
