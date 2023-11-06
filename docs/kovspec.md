@@ -251,3 +251,6 @@ A fent felsorolt technológiák és követelmények teljesítése kulcsfontossá
 3. **Biztonság:**
    - A felhasználói jelszavaknak erős titkosítással kell lenniük védve.
    - Az alkalmazásnak ellenállnia kell a biztonsági fenyegetéseknek, például SQL-injekcióknak.
+
+4. **Hostolás és Karbantartás:**
+   - Az alkalmazást megbízható szolgáltatón kell hostolni, és rendszeres karbantartást kell végezni rajta, hogy biztosítsuk a rendszer stabilitását és biztonságát.
