@@ -212,3 +212,8 @@ Bejelentkezés (SSO) tokeneket.
 4. A rendszernek támogatnia kell az egyszeri bejelentkezést (SSO).
 5. A rendszernek lehetővé kell tennie a tartalom előnézetét a közzététel előtt.
 6. A rendszernek támogatnia kell a testreszabott mezőket.
+
+## Tartalomkezelés
+
+1. A rendszernek lehetővé kell tennie letölthető tartalmakat különböző médiaformátumokban (pl. PowerPoint, MS Word, PDF) számítógépről vagy mobil eszközről történő használathoz.
+2. A rendszernek össze kell kapcsolnia a CBT, WBT és e-Learning webinárokat egy oktató vezette képzési kurzussal.
