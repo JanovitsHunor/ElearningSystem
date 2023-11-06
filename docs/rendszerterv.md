@@ -203,3 +203,8 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 Bejelentkezés (SSO) tokeneket.
 
 ![network](network.png)
+
+## Adminisztrátor
+
+1. A rendszernek lehetővé kell tennie egy hallgató követését az LMS alaprendszer által szolgáltatott UEID segítségével.
+2. A rendszernek lehetővé kell tennie a felhasználói információk módosítását, amelyek nem kapcsolódnak az ECR-hez.
