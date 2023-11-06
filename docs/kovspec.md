@@ -244,3 +244,6 @@ A fent felsorolt technológiák és követelmények teljesítése kulcsfontossá
 1. **Programozási Nyelv és Adatbázis:**
    - Az alkalmazást PHP programozási nyelv használatával fejlesztjük.
    - Az adatbáziskezeléshez MySQL-t alkalmazunk.
+
+2. **Felhasználói Felület:**
+   - A felhasználói felületnek reszponzívnek kell lennie, hogy támogassa a különböző eszközöket, beleértve a mobiltelefonokat és táblagépeket.
