@@ -201,7 +201,5 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 4. A rendszernek támogatnia kell a zárt feliratozást a számítógépes alapú képzéshez.
 5. A rendszernek képesnek kell lennie UEID-k importálására és támogatására.
 Bejelentkezés (SSO) tokeneket.
-3. A rendszernek konfigurálható, szerep alapú hitelesítést kell biztosítania.
-4. 4. A rendszernek támogatnia kell a zárt feliratozást a számítógépes alapú képzéshez.
-5. A rendszernek képesnek kell lennie UEID-k importálására és támogatására.
+
 
