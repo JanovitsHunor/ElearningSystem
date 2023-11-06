@@ -202,4 +202,4 @@ A jövőben további finomhangolásokra és fejlesztésekre lehet szükség az L
 5. A rendszernek képesnek kell lennie UEID-k importálására és támogatására.
 Bejelentkezés (SSO) tokeneket.
 
-
+![network](network.png)
