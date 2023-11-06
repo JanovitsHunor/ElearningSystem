@@ -238,3 +238,5 @@ A rendszernek a következő technológiákat és követelményeket kell teljesí
 - **Biztonság és adatvédelem**: A rendszernek megfelelő biztonsági intézkedéseket kell tartalmaznia a felhasználói adatok védelme érdekében. Ez magában foglalja a jelszókezelést és a hozzáférési jogosultságok ellenőrzését.
 
 A fent felsorolt technológiák és követelmények teljesítése kulcsfontosságú a rendszer hatékony működése és a felhasználói élmény biztosítása szempontjából.
+
+## Technológiai Követelmények
