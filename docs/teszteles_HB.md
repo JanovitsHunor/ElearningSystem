@@ -18,3 +18,29 @@
 ### 2.1 Profiladatok Módosítása
 
 - [x] Sikeresen módosítottam a profiladataimat (felhasználónév, jelszó stb.).
+
+
+
+## 3. Dashboard
+
+### 3.1 Áttekintés
+
+- [x] A dashboardon könnyen áttekinthetőek voltak a kurzusaim, értesítéseim és tanulási előrehaladásom.
+
+## 4. Kurzusok Böngészése és Regisztráció
+
+### 4.1 Kurzusok Böngészése
+
+- [x] Sikeresen böngésztem a rendszer által elérhető kurzusokat.
+- [x] A kurzusok jól strukturáltak és könnyen kereshetőek voltak.
+
+### 4.2 Kurzusok Regisztrációja
+
+- [x] Sikeresen regisztráltam a kiválasztott kurzusokba.
+
+## 5. Kurzusok Kezelése (Oktatói Funkciók)
+
+### 5.1 Új Kurzus Létrehozása
+
+- [x] Sikeresen létrehoztam egy új kurzust a tantárgyamhoz.
+- [x] A kurzus tematizálása és időzítése is megfelelően működött.
