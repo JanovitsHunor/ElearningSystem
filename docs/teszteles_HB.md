@@ -56,3 +56,25 @@
 ### 6.2 Tartalom Szerkesztése
 
 - [x] A tartalom szerkesztése könnyen kezelhető volt, és a változtatások azonnal érvénybe léptek.
+
+
+
+## 7. Felhasználók Összekapcsolása
+
+### 7.1 Diákokkal Való Kapcsolatfelvétel
+
+- [x] Sikeresen létrehoztam kapcsolatot a diákokkal és követtem azokat.
+
+### 7.2 Kommunikáció
+
+- [x] Sikeresen kommunikáltam privát üzenetek segítségével diákokkal.
+
+## 8. Keresés és Navigáció
+
+### 8.1 Hatékony Keresés
+
+- [x] A keresési funkció gyors és hatékony volt a kurzusok, tartalmak és felhasználók között.
+
+### 8.2 Egyszerű Navigáció
+
+- [x] A rendszer egyszerű navigációt biztosított a gyors tartalom eléréséhez.
