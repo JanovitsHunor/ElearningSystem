@@ -15,10 +15,10 @@ A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönny
 
 - 6. lépés: Nyissa meg a PHPAdmin című weboldalt, melyet az alábbi linkre kattintva tehet meg: [Megnyitás](http://localhost/phpmyadmin)
 
-- 7. lépés: Az oldal megnyitása után hozzon létre egy új adatbázist "elearning" néven, amelyet az Új / New funkcióval tehet meg.
+- 7. lépés: Az oldal megnyitása után hozzon létre egy új adatbázist "capstone" néven, amelyet az Új / New funkcióval tehet meg.
 
-- 8. lépés: Importálja a(z) elearning.sql névvel ellátott állományt a(z) database mappából.
+- 8. lépés: Importálja a(z) capstone.sql névvel ellátott állományt a(z) "lms/db" mappából.
 
-- 9. lépés: Futtassa a "http://localhost/elearning" linket.
+- 9. lépés: Futtassa a "http://localhost/lms" linket.
  
 Bármilyen fennakadás esetén a(z) [Segítség](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) fülön találnak megoldást!
