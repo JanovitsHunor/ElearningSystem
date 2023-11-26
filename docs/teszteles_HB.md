@@ -44,3 +44,15 @@
 
 - [x] Sikeresen létrehoztam egy új kurzust a tantárgyamhoz.
 - [x] A kurzus tematizálása és időzítése is megfelelően működött.
+
+
+
+## 6. Tartalomfeltöltés és Szerkesztés
+
+### 6.1 Tartalom Feltöltése
+
+- [x] Sikeresen feltöltöttem különböző típusú tartalmakat (szöveg, kép, video stb.).
+
+### 6.2 Tartalom Szerkesztése
+
+- [x] A tartalom szerkesztése könnyen kezelhető volt, és a változtatások azonnal érvénybe léptek.
