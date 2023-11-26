@@ -37,10 +37,6 @@
 3. Mentés gombra kattint.
 4. Ellenőrzi, hogy a profiladatai sikeresen frissültek-e és megfelelően jelennek-e meg a rendszerben.
 
-# eLearning Rendszer Tesztelési Jegyzőkönyve
-
-## Tesztesetek folytatása
-
 ### 6. Kérdőív Kitöltése és Értékelése
 
 1. Felhasználó belép egy kurzusba, ahol található egy kitöltendő kérdőív.
@@ -72,10 +68,6 @@
 2. Megfigyeli a rendszer által visszaadott hibaüzenetet.
 3. Ellenőrzi a hibaüzenetet és annak megfelelőségét a megadott adathibához.
 
-# eLearning Rendszer Tesztelési Jegyzőkönyve
-
-## Folytatás: Tesztesetek
-
 ### 11. Keresési Funkció Tesztelése
 
 1. Felhasználó belép a rendszerbe.
@@ -105,11 +97,7 @@
 1. Felhasználó sikeresen befejez egy kurzust.
 2. Ellenőrzi, hogy a kurzus végén kap-e tanúsítványt.
 3. Meggyőződik arról, hogy a tanúsítvány tartalmazza-e a megfelelő információkat és a kurzus nevét.
-
-# eLearning Rendszer Tesztelési Jegyzőkönyve
-
-## Folytatás: Tesztesetek
-
+4. 
 ### 16. Beiratkozás Kurzusra
 
 1. Felhasználó belép a kurzuskeresőbe.
