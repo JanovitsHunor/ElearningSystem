@@ -72,3 +72,36 @@
 2. Megfigyeli a rendszer által visszaadott hibaüzenetet.
 3. Ellenőrzi a hibaüzenetet és annak megfelelőségét a megadott adathibához.
 
+# eLearning Rendszer Tesztelési Jegyzőkönyve
+
+## Folytatás: Tesztesetek
+
+### 11. Keresési Funkció Tesztelése
+
+1. Felhasználó belép a rendszerbe.
+2. Keresőmezőbe keres egy kurzusnév vagy témakör alapján.
+3. Ellenőrzi, hogy a keresés eredménye megfelel-e a keresett kulcsszavaknak.
+
+### 12. Videó Lejátszó Működésének Ellenőrzése
+
+1. A felhasználó elindít egy oktatóvideót egy kurzusban.
+2. Ellenőrzi a videolejátszó funkcióit (lejátszás, megállítás, előreugrás, hangerő stb.).
+3. Biztosítja, hogy a videó minősége és betöltése megfelelő-e.
+
+### 13. Közösségi Funkciók Tesztelése
+
+1. Felhasználó belép a kurzus fórumára vagy közösségi területre.
+2. Közzétesz egy kérdést vagy hozzászólást.
+3. Ellenőrzi, hogy a posztja megjelenik-e, és más felhasználók válaszolnak-e rá.
+
+### 14. Egyedi Felhasználói Profil Ellenőrzése
+
+1. Felhasználó belép a saját profiljába.
+2. Ellenőrzi a személyes adatok, teljesítmény, elért tanúsítványok stb. jelenlétét.
+3. Biztosítja, hogy a profil összes része megfelelően frissül-e.
+
+### 15. Tanúsítvány Kiosztásának Ellenőrzése
+
+1. Felhasználó sikeresen befejez egy kurzust.
+2. Ellenőrzi, hogy a kurzus végén kap-e tanúsítványt.
+3. Meggyőződik arról, hogy a tanúsítvány tartalmazza-e a megfelelő információkat és a kurzus nevét.
