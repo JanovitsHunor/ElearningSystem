@@ -99,3 +99,29 @@
 ### 10.2 Adatvédelem
 
 - [x] A rendszer megfelelt az adatvédelmi előírásoknak és törvényeknek.
+
+
+
+## 11. Értesítések és Kommunikáció
+
+### 11.1 Automatikus Értesítések
+
+- [x] Az automatikus értesítések segítettek a fontos események és határidők nyomon követésében.
+
+### 11.2 Kommunikációs Funkciók
+
+- [x] A kommunikációs funkciók lehetővé tették az oktatók és diákok közötti hatékony kommunikációt és interakciót.
+
+## 12. Hozzáférhetőség
+
+- [x] A rendszer megfelelt az akadálymentességi szabványoknak a felhasználók számára könnyű és akadálymentes használat érdekében?
+
+## 13. Keresési Funkció
+
+- [x] A keresési funkció gyors és hatékony eredményeket szolgáltatott a kurzusok, tartalmak és felhasználók között?
+
+## 14. Dokumentáció és Támogatás
+
+- [x] A rendszer tartalmazott egy használati útmutatót és könnyen elérhető támogatási lehetőségeket?
+
+---
