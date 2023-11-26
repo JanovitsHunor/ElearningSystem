@@ -78,3 +78,24 @@
 ### 8.2 Egyszerű Navigáció
 
 - [x] A rendszer egyszerű navigációt biztosított a gyors tartalom eléréséhez.
+
+
+## 9. Teljesítmény és Fejlődés Nyomon Követése
+
+### 9.1 Diákok Értékelése
+
+- [x] Sikeresen nyomon követtem a diákok teljesítményét és adtam nekik visszajelzést.
+
+### 9.2 Tanulási Statisztikák
+
+- [x] A rendszer megfelelő statisztikákat nyújtott a tanulók előrehaladásáról.
+
+## 10. Hozzáférés és Adatvédelem
+
+### 10.1 Megfelelő Hozzáférési Jogosultságok
+
+- [x] A rendszer megfelelő hozzáférési jogosultságokat biztosított a felhasználók számára.
+
+### 10.2 Adatvédelem
+
+- [x] A rendszer megfelelt az adatvédelmi előírásoknak és törvényeknek.
