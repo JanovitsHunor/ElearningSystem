@@ -125,3 +125,8 @@
 - [x] A rendszer tartalmazott egy használati útmutatót és könnyen elérhető támogatási lehetőségeket?
 
 ---
+
+
+
+### Teszt Zárása
+Ezennel lezárjuk a tesztelést. Az összes teszt sikeresen lefutott, és a rendszer 100%-ban megfelelt minden tesztelt funkcióra.
