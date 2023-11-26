@@ -105,3 +105,37 @@
 1. Felhasználó sikeresen befejez egy kurzust.
 2. Ellenőrzi, hogy a kurzus végén kap-e tanúsítványt.
 3. Meggyőződik arról, hogy a tanúsítvány tartalmazza-e a megfelelő információkat és a kurzus nevét.
+
+# eLearning Rendszer Tesztelési Jegyzőkönyve
+
+## Folytatás: Tesztesetek
+
+### 16. Beiratkozás Kurzusra
+
+1. Felhasználó belép a kurzuskeresőbe.
+2. Kiválaszt egy kurzust, majd beiratkozik rá.
+3. Ellenőrzi, hogy a felhasználó sikeresen bekerült-e a kurzusra.
+
+### 17. Kijelentkezés és Újbóli Bejelentkezés Tesztelése
+
+1. Felhasználó kijelentkezik a rendszerből.
+2. Újra bejelentkezik a felhasználói fiókjába.
+3. Ellenőrzi, hogy sikeresen újra be tud-e lépni a rendszerbe.
+
+### 18. Hiba Tolerancia Tesztelése
+
+1. Felhasználó bizonyos funkciókat használ hibás adatokkal.
+2. Ellenőrzi a rendszer viselkedését hibás adatok esetén.
+3. Biztosítja, hogy a rendszer kezeli-e helyesen a hibás adatokat és visszaad-e informatív hibaüzeneteket.
+
+### 19. Teljesítmény Tesztelése
+
+1. Több felhasználó egyidejűleg belép a rendszerbe.
+2. Ellenőrzi a rendszer válaszidejét és reakcióképességét terhelés alatt.
+3. Meggyőződik arról, hogy a rendszer stabilitása megfelelő-e nagy terhelés esetén is.
+
+### 20. Frissítések És Hibajavítások Ellenőrzése
+
+1. Ellenőrzi a legutóbbi rendszerfrissítések hatásait.
+2. Teszteli a korábbi hibajavítások működését.
+3. Biztosítja, hogy a frissítések és javítások nem okoztak-e új problémákat a rendszerben.
