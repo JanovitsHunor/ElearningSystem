@@ -15,7 +15,7 @@
 							<hr>
                                 <div class="span3">
 										<center>
-										<img id="developers" src="admin/images/jkev.jpg" class="img-circle">
+										<img id="developers" src="admin/images/berencsi.jpg" class="img-circle">
 										<hr>
 										<p>Név: Berencsei Attila</p>
 										<p>Beosztás: Fejlesztő</p>
@@ -23,7 +23,7 @@
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/jelyn.jpg" class="img-circle">
+								<img id="developers" src="admin/images/hadadi.jpg" class="img-circle">
 								<hr>
 										<p>Név: Hadadi Benjamin</p>
 										<p>Beosztás: Fejlesztő</p>
@@ -31,7 +31,7 @@
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/jorge.jpg" class="img-circle">
+								<img id="developers" src="admin/images/janovits.jpg" class="img-circle">
 								<hr>
 										<p>Name: Janovits Hunor</p>
 										<p>Beosztás: Fejlesztő / magyarosító</p>
@@ -39,7 +39,7 @@
 								</div>
                                 <div class="span3">
 								<center>
-								<img id="developers" src="admin/images/mich.jpg" class="img-circle">
+								<img id="developers" src="admin/images/etele.jpg" class="img-circle">
 								<hr>
 										<p>Név: Tamás Etele</p>
 										<p>Beosztás: Fejlesztő</p>
