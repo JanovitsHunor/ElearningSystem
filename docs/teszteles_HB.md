@@ -1,6 +1,23 @@
 # E-Learning Rendszer Teszt Jegyzőkönyve
 ---
 
+|    |                                                  | Succes/Not |
+|----|--------------------------------------------------|------------|
+| 1  |Felhasználói Regisztráció és Bejelentkezés        | Success    |
+| 2  | Profilkezelés                                    | Success    |
+| 3  | Dashboard                                        | Success    |
+| 4  | Kurzusok Böngészése és Regisztráció              | Success    |
+| 5  | Felhasználói Profil Szerkesztése                 | Success    |
+| 6  | Kérdőív Kitöltése és Értékelése                  | Success    |
+| 7  | Szerepkörök Jogosultságainak Ellenőrzése         | Success    |
+| 8  | Készségfejlesztő Játék Ellenőrzése               | Success    |
+| 9  | Kommunikációs Eszközök Működésének Ellenőrzése   | Success    |
+| 10 | Hibaüzenetek és Visszajelzések Ellenőrzése       | Success    |
+| 11 | Keresési Funkció Tesztelése                      | Success    |
+| 12 | Videó Lejátszó Működésének Ellenőrzése           | Success    |
+| 13 | Közösségi Funkciók Tesztelése                    | Success    |
+| 14 | Dokumentáció és Támogatás                        | Success    |
+
 ## 1. Felhasználói Regisztráció és Bejelentkezés
 
 ### 1.1 Felhasználói Regisztráció
