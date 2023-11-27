@@ -55,6 +55,31 @@
                                           </div>
                                         </div>
                                 </form>
+
+			 <script>
+			jQuery(document).ready(function($){
+				$("#add_class").submit(function(e){
+					e.preventDefault();
+					var _this = $(e.target);
+					var formData = $(this).serialize();
+					$.ajax({
+						type: "POST",
+						url: "add_class_action.php",
+						data: formData,
+						success: function(html){
+						if(html=="true")
+						{
+						$.jGrowl("Már létezik ilyen csoport!", { header: 'Nem sikerült a csoport hozzáadása.' });
+						}else{
+							$.jGrowl("Csoport sikeresen hozzáadva!", { header: 'Csoport hozzáadva!' });
+							var delay = 500;
+							setTimeout(function(){ window.location = 'dasboard_teacher.php'  }, delay);  
+						}
+						}
+					});
+				});
+			});
+			</script>		
 								
            
 
