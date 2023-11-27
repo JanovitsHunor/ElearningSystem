@@ -120,3 +120,26 @@
 
 - Megkerestem rendszer dokumentációját, hogy könnyen elérhető-e.
 - Ellenőriztem, hogy a támogatási lehetőségek segítik-e a felhasználókat problémák esetén.
+
+|    |                                                  | Succes/Not |
+|----|--------------------------------------------------|------------|
+| 1  | Felhasználói Regisztráció                        | Success    |
+| 2  | Bejelentkezés                                    | Success    |
+| 3  | Profiladatok módosítása                          | Success    |
+| 4  | Áttekintés                                       | Success    |
+| 5  | Kurzusok böngészése                              | Success    |
+| 6  | Kurzusok Regisztrációja                          | Success    |
+| 7  | Új Kurzus Létrehozása                            | Success    |
+| 8  | Tartalom Feltöltése                              | Success    |
+| 9  | Tartalom Szerkesztése                            | Success    |
+| 10 | Hatékony Keresés                                 | Success    |
+| 11 | Egyszerű Navigáció                               | Success    |
+| 12 | Videó Lejátszó Működésének Ellenőrzése           | Success    |
+| 13 | Diákok Értékelése                                | Success    |
+| 14 | Tanulási Statisztikák                            | Success    |
+| 15 | Megfelelő Adatvédelem                            | Success    |
+| 16 | Automatikus Értesítések                          | Success    |
+| 17 | Kommunikációs Funkciók                           | Success    |
+| 18 | Hozzáférhetőség                                  | Success    |
+| 19 | Keresési Funkció                                 | Success    |
+| 20 | Dokumentáció és Támogatás                        | Success    |
