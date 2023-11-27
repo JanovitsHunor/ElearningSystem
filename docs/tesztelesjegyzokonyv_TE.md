@@ -31,69 +31,67 @@
 ## 4.1 Kurzusok Böngészése
 
 - A "Kurzusok" menüpontba böngészni a rendelkezésre álló kurzusok között.
-- Ellenőrizni, hogy a kurzusok logikusan vannak-e csoportosítva és könnyen kereshetőek-e.
+- A kurzusok logikusan vannak-e csoportosítva és könnyen kereshetőek.
 
 ## 4.2 Kurzusok Regisztrációja
 
-- Választani egy kurzust, majd regisztrálni rá.
+- Választottam egy kurzust és sikeresen regisztrálni tudtam rá.
 - A rendszer visszaigazolja a sikeres regisztrációt.
 
 # 5. Kurzusok Kezelése (Oktatói Funkciók)
 
 ## 5.1 Új Kurzus Létrehozása
 
-- Átmenni az oktatói panelre és létrehozni egy új kurzust.
+- Átmentem az oktatói panelre és létrehoztam sikeresen egy új kurzust.
 - A kurzus létrehozása során a tematizálás és időzítés is megfelelően működik.
 
 # 6. Tartalomfeltöltés és Szerkesztés
 
 ## 6.1 Tartalom Feltöltése
 
-- Különböző típusú tartalmakat feltöltése (szöveg, kép, video stb.).
-- Ellenőrizni, hogy a feltöltött tartalmak megjelennek-e a kurzuson belül.
+- Különböző típusú tartalmakat feltöltése sikeres volt (szöveg, kép, video stb.).
+- Ellenőriztem, hogy a feltöltött tartalmak megjelennek-e a kurzuson belül.
 
 ## 6.2 Tartalom Szerkesztése
 
-- Változtatásokat végezni egy tartalmon, majd ellenőrizni, hogy a változtatások azonnal érvénybe lépnek-e.
+- Változtatásokat végeztem egy tartalmon, majd ellenőriztem, hogy a változtatások azonnal érvénybe léptek.
 
 # 7. Felhasználók Összekapcsolása
 
 ## 7.1 Diákokkal Való Kapcsolatfelvétel
 
-- Diákokat keresni és kapcsolatot kezdeményezni velük.
-- Ellenőrizni, hogy a kapcsolatfelvétel és követés funkciók megfelelően működnek.
+- Diákokat kerestem és kapcsolatot kezdeményeztem velük.
+- Ellenőriztem, hogy a kapcsolatfelvétel és követés funkciók megfelelően működnek.
 
 ## 7.2 Kommunikáció
 
-- Privát üzeneteket küldeni és fogadni diákokkal.
-- Ellenőrizni, hogy a kommunikációs funkciók hatékonyan működnek.
+- Ellenőriztem, hogy a kommunikációs funkciók hatékonyan működnek.
 
 # 8. Keresés és Navigáció
 
 ## 8.1 Hatékony Keresés
 
-- Ellenőrizni hogy a keresési eredmények gyorsak és hatékonyak-e.
+- Ellenőriztem hogy a keresési eredmények gyorsak és hatékonyak-e.
 
 ## 8.2 Egyszerű Navigáció
 
-- Ellenőrizni, hogy az egyszerű és logikus navigáció segít a gyors tartalom elérésében.
+- Ellenőriztem, hogy az egyszerű és logikus navigáció segít a gyors tartalom elérésében.
 
 # 9. Teljesítmény és Fejlődés Nyomon Követése
 
 ## 9.1 Diákok Értékelése
 
-- Értékelni a diákok teljesítményét és visszajelzést adni.
-- Meggyőződni, hogy az értékelési funkciók megfelelően működnek.
+- Meggyőződtem róla, hogy az értékelési funkciók megfelelően működnek.
 
 ## 9.2 Tanulási Statisztikák
 
-- Megnézni a tanulási statisztikákat, és ellenőrizni, hogy a rendszer pontos és releváns információkat szolgáltat.
+- Megnéztem a tanulási statisztikákat, és ellenőriztem, hogy a rendszer pontos és releváns információkat szolgáltat.
 
 # 10. Hozzáférés és Adatvédelem
 
 ## 10.1 Megfelelő Hozzáférési Jogosultságok
 
-- Ellenőrizni, hogy a rendszer megfelelő hozzáférési jogosultságokat biztosít a felhasználók számára.
+- Ellenőriztem, hogy a rendszer megfelelő hozzáférési jogosultságokat biztosít a felhasználók számára.
 
 ## 10.2 Adatvédelem
 
@@ -103,11 +101,11 @@
 
 ## 11.1 Automatikus Értesítések
 
-- Ellenőrizni az automatikus értesítéseket, hogy segítenek-e a fontos események és határidők nyomon követésében.
+- Ellenőriztem az automatikus értesítéseket, hogy segítenek-e a fontos események és határidők nyomon követésében.
 
 ## 11.2 Kommunikációs Funkciók
 
-- Tesztelni a kommunikációs funkciókat az oktatók és diákok között, hogy hatékonyak.
+- Teszteltem a kommunikációs funkciókat az oktatók és diákok között, hogy hatékonyak.
 
 # 12. Hozzáférhetőség
 
@@ -119,5 +117,5 @@
 
 # 14. Dokumentáció és Támogatás
 
-- Megkeresni rendszer dokumentációját, hogy könnyen elérhető-e.
-- Ellenőrizni, hogy a támogatási lehetőségek segítik-e a felhasználókat problémák esetén.
+- Megkerestem rendszer dokumentációját, hogy könnyen elérhető-e.
+- Ellenőriztem, hogy a támogatási lehetőségek segítik-e a felhasználókat problémák esetén.
