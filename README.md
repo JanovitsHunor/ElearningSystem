@@ -21,4 +21,4 @@ A célunk, hogy létrehozzunk egy átfogó eLearning platformot, amely megkönny
 
 - 9. lépés: Futtassa a "http://localhost/lms" linket.
  
-Bármilyen fennakadás esetén a(z) [Segítség](https://1sourcecodr.blogspot.com/2022/02/online-elearning-system-in-php-my-sql.html) fülön találnak megoldást!
+Bármilyen fennakadás esetén a(z) [Segítség](https://www.sourcecodester.com/php/7339/learning-management-system.html) fülön találnak megoldást!
