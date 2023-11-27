@@ -28,13 +28,14 @@
 												<th>Név</th>
 												<th>Felhasználó</th>
 
-												<th></th>
+												
 										   </tr>
 										</thead>
 										<tbody>
 													<?php
 													$user_query = mysqli_query($conn,"select * from users")or die(mysqli_error());
 													while($row = mysqli_fetch_array($user_query)){
+														
 													$id = $row['user_id'];
 													?>
 
