@@ -2,29 +2,29 @@
 
 ## 1.1 Felhasználói Regisztráció
 
-- Ellenőrizni, hogy a regisztrációs folyamat elindítható-e a főoldalon.
-- Kitölteni a regisztrációs űrlapot (felhasználónév, jelszó stb.).
-- Meggyőződni róla, hogy a rendszer visszaigazolja a sikeres regisztrációt.
+- A regisztrációs folyamat sikeresen elindítható a főoldalon.
+- Ki lehet tölteni a regisztrációs űrlapot (felhasználónév, jelszó stb.).
+- Meggyőződtem róla, hogy a rendszer visszaigazolja a sikeres regisztrációt.
 
 ## 1.2 Bejelentkezés
 
-- Megkeresni a bejelentkezési lehetőséget a főoldalon.
-- Megadni a regisztrált felhasználónevem és jelszavam.
-- Ellenőrizni, hogy sikeresen beléptem-e a fiókomba, és a rendszer mutatja-e a felhasználói nevem.
+- Megkerestem a bejelentkezési lehetőséget a főoldalon.
+- Megadtam a regisztrált felhasználónevem és jelszavam.
+- Sikeresen be tudtam lépni a fiókomba, és a rendszer mutatja a felhasználói nevem.
 
 # 2. Profilkezelés
 
 ## 2.1 Profiladatok Módosítása
 
-- A profilomhoz menni és kiválasztani a "Profil szerkesztése" lehetőséget.
-- Módosítsani a profiladatokat, például a felhasználónevet vagy jelszót.
-- Ellenőrizni, hogy a rendszer elmenti-e a változásokat.
+- A profilomnál ki tudom választani a "Profil szerkesztése" lehetőséget.
+- Módosíthatók a profiladatok, például a felhasználónév vagy jelszó.
+- Ellenőriztem, hogy a rendszer elmenti-e a változásokat.
 
 # 3. Dashboard
 
 ## 3.1 Áttekintés
 
-- Dashboardra lépni és megnézni, hogy könnyen áttekinthetőek-e a kurzusok, értesítések és tanulási előrehaladás információi.
+- Dashboardra beléptem és megvizsgáltam, hogy könnyen áttekinthetőek-e a kurzusok, értesítések és tanulási előrehaladás információi.
 
 # 4. Kurzusok Böngészése és Regisztráció
 
