@@ -5,6 +5,7 @@
 - A regisztrációs folyamat sikeresen elindítható a főoldalon.
 - Ki lehet tölteni a regisztrációs űrlapot (felhasználónév, jelszó stb.).
 - Meggyőződtem róla, hogy a rendszer visszaigazolja a sikeres regisztrációt.
+- Oktatói fiók regisztrálása is sikeres volt.
 
 ## 1.2 Bejelentkezés
 
