@@ -23,15 +23,15 @@
                         <div class="block">
                             <div class="navbar navbar-inner block-header">
                                 <div id="count_class" class="muted pull-right">
-
+                          <div class="control-group">
+                            <label class="control-label" for="inputEmail">Állomány:</label>
+                            <div class="controls">
 								</div>
                             </div>
                             <div class="block-content collapse in">
                                 <div class="span4">
 										<form class="" id="add_downloadble" method="post" enctype="multipart/form-data" name="upload" >
-                        <div class="control-group">
-                            <label class="control-label" for="inputEmail">Állomány:</label>
-                            <div class="controls">
+                        
 				
 									
 								<input name="uploaded_file"  class="input-file uniform_on" id="fileInput" type="file" required>
