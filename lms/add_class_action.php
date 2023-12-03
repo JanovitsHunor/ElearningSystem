@@ -1,7 +1,7 @@
 <?php
 include('dbcon.php');
-$subject_id = $_POST['subject_id'];
 $session_id = $_POST['session_id'];
+$subject_id = $_POST['subject_id'];
 $class_id = $_POST['class_id'];
 $school_year = $_POST['school_year'];
 $query = mysqli_query($conn,"select * from teacher_class where subject_id = '$subject_id' and class_id = '$class_id' and teacher_id = '$session_id' and school_year = '$school_year' ")or die(mysqli_error());
